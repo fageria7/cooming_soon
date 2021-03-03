@@ -3,7 +3,7 @@ const heading = document.querySelector('.landing-h1');
 const image = document.querySelector('.landing-img');
 
 //set launch date (ms)
-const launchDate = new Date('Oct 29, 2020 19:52:00').getTime();
+const launchDate = new Date('apr 29, 2021 19:52:00').getTime();
 
 //update every sec
 const intvl = setInterval(() => {
